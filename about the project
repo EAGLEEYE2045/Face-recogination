@@ -1,0 +1,6 @@
+This project is a Facial Recognition-based Automatic Door Lock and Attendance System designed to enhance security and streamline attendance tracking.
+The system utilizes advanced facial recognition algorithms to authenticate individuals and automatically unlock the door upon successful identification. 
+It replaces traditional methods such as key cards or passwords, reducing the risk of unauthorized access.
+In addition to door security, the system automatically logs the attendance of recognized individuals, making it ideal for use in institutions, workplaces, or secure facilities.
+Built using [OpenCV, Python], the project demonstrates a practical application of AI in real-world scenarios.
+
